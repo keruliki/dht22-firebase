@@ -10,13 +10,13 @@ GPIO.setwarnings(False)
 
 
 config = {
-    "apiKey": "AIzaSyA8S1-UF-7Jf8jUt-Ja6Gby7FoiuJnpErI",
-    "authDomain": "refeercontainer-12d2e.firebaseapp.com",
-    "databaseURL": "https://refeercontainer-12d2e.firebaseio.com",
-    "projectId": "refeercontainer-12d2e",
-    "storageBucket": "refeercontainer-12d2e.appspot.com",
-    "messagingSenderId": "453272591416",
-    "appId": "1:453272591416:web:fa5824049e2a6f3d851acd"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "m",
+    "messagingSenderId": "",
+    "appId": ""
 }
 
 mylcd = RPi_I2C_driver.lcd()
